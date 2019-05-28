@@ -7,8 +7,11 @@ use Exception;
 
 class CreateImageFromText
 {
+	//returns base64 encoded image
 	const RETURN_BASE64 = 0;
+	//return html <img> tag with base64 encoded image
 	const RETURN_BASE64_IMG = 1;
+	//return image Resource
 	const RETURN_RESOURCE = 2;
 
 	/**
