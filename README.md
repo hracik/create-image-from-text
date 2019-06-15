@@ -49,13 +49,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/hracik/imdb-parser/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/hracik/php-create-image-from-text/tags). 
 
 ## Authors
 
 * **Andrej Lahucky** - *Initial work* - [Hracik](https://github.com/hracik)
 
-See also the list of [contributors](https://github.com/hracik/imdb-parser/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/hracik/php-create-image-from-text/graphs/contributors) who participated in this project.
 
 ## License
 
